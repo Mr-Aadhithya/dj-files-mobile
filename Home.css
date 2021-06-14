@@ -1,0 +1,68 @@
+#topbar
+{
+  background-color:#000000;
+  height:60px;
+  width:100%;
+}
+#subtop
+{
+  background-color: #000000;
+  height:60px;
+  width:50%;
+}
+#logo
+{
+  background-color: :#0f0f0d;
+  height:60px;
+  width:auto;
+}
+#logo img
+{
+  height:60px;
+  width:auto;
+}
+#background
+{
+  background-image: url(file:///E://Django-Web%20Scrapper/Asserts/img-bg.jpg);
+  background-color:#42423a;
+  height:1000px;
+  width: auto;
+}
+#url_paster
+{
+  background-color: red;
+  opacity: 0.01;
+  height:1000px;
+  width:1000px;
+  margin: 0px auto;
+}
+#linker
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#companies img
+{
+  float: left;
+  width: auto;
+  height:150px;
+  padding: 5px;
+  padding-bottom: 50px;
+  margin-bottom: auto;
+}
+#footer
+{
+  background-color:#000000;
+  height:10px;
+  width:auto;
+}
+h1
+{
+  color:red;
+  text-align: left;
+  font-style: italic;
+  font-family:monospace;
+  font-size:35px;
+}
